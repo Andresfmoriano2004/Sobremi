@@ -134,8 +134,8 @@ Estoy buscando oportunidades para:
 ### 👉 Acciones rápidas:
 
 [📧 Envíame un email](mailto:morianoa970@gmail.com)
-[💼 LinkedIn](https://linkedin.com/in/{{TU_USUARIO_LINKEDIN}})
-[🌐 Portafolio](https://{{TU_PORTAFOLIO}}.dev)
+[💼 LinkedIn](https://www.linkedin.com/in/andres-moriano-749b00327/)
+[🌐 Portafolio](https://portafolio-khaki-tau.vercel.app/)
 [📄 Descargar CV](./assets/cv-andres-moriano.pdf)
 
 </div>
@@ -151,10 +151,10 @@ Estoy buscando oportunidades para:
   <a href="https://github.com/{{TU_USUARIO_GITHUB}}" title="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/{{TU_USUARIO_LINKEDIN}}" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/andres-moriano-749b00327/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
   </a>
-  <a href="https://{{TU_PORTAFOLIO}}.dev" title="Portafolio" target="_blank">
+  <a href="https://portafolio-khaki-tau.vercel.app/" title="Portafolio" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a" alt="Portafolio" />
   </a>
 </p>
