@@ -69,8 +69,8 @@ Soy **Andres Felipe Moriano**, desarrollador Full-Stack autodidacta y estudiante
 
 | Proyecto | Descripción | Tecnologías | Links |
 |----------|-------------|-------------|-------|
-| 🔐 **{{NombreProyecto1}}** | {{Descripción breve del proyecto, ej: Sistema de autenticación JWT con roles y permisos}} | {{Spring Boot, MySQL, Jest}} | [🔗 Demo]({{URL_DEMO}}) • [💻 Código]({{URL_REPO}}) |
-| 🛒 **{{NombreProyecto2}}** | {{Descripción breve, ej: API REST para e-commerce con integración de pagos}} | {{Node.js, MongoDB, Stripe}} | [🔗 Demo]({{URL_DEMO}}) • [💻 Código]({{URL_REPO}}) |
+| 🔐 **Kumbala POS** | {{Descripción breve del proyecto: Sistema de inventario y ventas para un bar en la ciudad de pereita | {{Vue 3, SQLite, cloudflare}} | [🔗 Demo]({{URL_DEMO}}) • [💻 Código]({{URL_REPO}}) |
+| 🛒 **Dark pink cooffe** | {{Descripción breve, ej: API REST para e-commerce con integración de pagos}} | {{Node.js, MongoDB, Stripe}} | [🔗 Demo]({{URL_DEMO}}) • [💻 Código]({{URL_REPO}}) |
 | 📊 **{{NombreProyecto3}}** | {{Descripción breve, ej: Dashboard de métricas en tiempo real con WebSockets}} | {{React, TypeScript, Socket.io}} | [🔗 Demo]({{URL_DEMO}}) • [💻 Código]({{URL_REPO}}) |
 
 <details>
