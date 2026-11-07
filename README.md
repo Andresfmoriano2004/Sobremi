@@ -95,30 +95,6 @@ Soy **Andres Felipe Moriano**, desarrollador Full-Stack autodidacta y estudiante
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={{TU_USUARIO_GITHUB}}&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" width="48%" alt="Estadísticas de GitHub - {{TU_USUARIO_GITHUB}}" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{TU_USUARIO_GITHUB}}&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Racha de commits - {{TU_USUARIO_GITHUB}}" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{TU_USUARIO_GITHUB}}&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=es" width="40%" alt="Lenguajes más usados - {{TU_USUARIO_GITHUB}}" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={{TU_USUARIO_GITHUB}}&theme=tokyo-night&hide_border=true&area=true&color=00BFFF" width="95%" alt="Gráfico de actividad - {{TU_USUARIO_GITHUB}}" />
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username={{TU_USUARIO_GITHUB}}&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" width="95%" alt="Trofeos de GitHub - {{TU_USUARIO_GITHUB}}" />
-</div>
-
----
-
 ## 🤝 ¿Trabajamos juntos?
 
 <div align="center">
